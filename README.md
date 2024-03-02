@@ -1,7 +1,8 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, and C++. Aspiring to leverage my skills and passion for technology in a dynamic role.
+<h1 align="left" id="macropower-title">:wave: Hello there! 
 </h1>
 <p align="left">
 </p>
+I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, and C++. Aspiring to leverage my skills and passion for technology in a dynamic role.
 - :house: I'm currently living at HCM City, Vietnam 🇻🇳.
 - :dart: I'm currently working on my pet projects.
 - :video_game: I love Game.
