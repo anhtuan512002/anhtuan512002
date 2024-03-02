@@ -1,11 +1,7 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tuan Nguyen, and i am Computer Science</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, and C++. Aspiring to leverage my skills and passion for technology in a dynamic role.
+</h1>
 <p align="left">
 </p>
-
-<a href="#anhtuan512002-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan512002&show_icons=true" alt="anhtuan512002" align="right" />
-</a>
-
 - :house: I'm currently living at HCM City, Vietnam 🇻🇳.
 - :dart: I'm currently working on my pet projects.
 - :video_game: I love Game.
