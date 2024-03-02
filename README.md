@@ -1,8 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Tuan Nguyen, and i am Computer Science</h1>
 <p align="left">
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
 <a href="#anhtuan512002-title">
