@@ -12,14 +12,23 @@ I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```ruby
-CONST DEREK = {
-  pronouns: "He" | "him",
-  backend: ["Nodejs"],
-  frontend: ["HTML", "Javascript", "CSS"],
-  database: ["mySQL"],
-  "cloud-server": ["AWS", "Gcloud"],
-
-}
+const derek = {
+  name: "Tuan Nguyen",
+  pronouns: "He/Him",
+  email: "tuanna05.cs@gmail.com",
+  languages: ["Python", "C++", "C#"],
+  knowledgeAreas: ["AI", "Deep Learning"],
+  education: {
+    degree: "Bachelor of Science",
+    major: "Computer Science",
+    university: "University of Information Technology"
+  },
+  skills: ["git", "docker", "agile"],
+  backend: ["Node.js"],
+  frontend: ["HTML", "JavaScript", "CSS"],
+  database: ["MySQL"],
+  cloudServer: ["AWS", "GCP"]
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
