@@ -3,8 +3,8 @@
   <a href="https://github.com/anhtuan512002">
     <img src="https://komarev.com/ghpvc/?username=anhtuan512002" alt="page views">
   </a>
-  <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+  <a href="https://github.com/anhtuan512002?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anhtuan512002?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -12,13 +12,12 @@
 </p>
 
 <a href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anhtuan512002&show_icons=true" alt="anhtuan512002" align="right" />
 </a>
 
 - :house: I'm currently living at HCM City, Vietnam 🇻🇳.
-- :computer: I'm currently working as a Software Engineer.
 - :dart: I'm currently working on my pet projects.
-- :video_game: I love Dota 2.
+- :video_game: I love Game.
 - :coffee: I'm coffeer.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
