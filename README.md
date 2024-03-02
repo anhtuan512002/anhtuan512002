@@ -1,11 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Tuan Nguyen</h1>
 <p align="left">
-  <a href="https://github.com/anhtuan512002">
-    <img src="https://komarev.com/ghpvc/?username=anhtuan512002" alt="page views">
-  </a>
-  <a href="https://github.com/anhtuan512002?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anhtuan512002?color=green&logo=github">
-  </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
@@ -25,12 +19,10 @@
 ```ruby
 CONST DEREK = {
   pronouns: "He" | "him",
-  backend: ["Ruby", "Nodejs", "Go"],
-  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
-  database: ["Postgresql", "mySQL", "Redis"],
-  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
+  backend: ["Nodejs"],
+  frontend: ["HTML", "Javascript", "CSS"],
+  database: ["mySQL"],
+  "cloud-server": ["AWS", "Gcloud"],
 }
 ```
 
