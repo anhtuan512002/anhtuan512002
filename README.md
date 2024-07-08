@@ -9,6 +9,7 @@ I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, 
 - :dart: I'm currently working on my pet projects.
 - :video_game: I love Game.
 - :coffee: I'm coffeer.
+![Uploading 57dc234298089c7a120ca9dc6da60f31.gif…]()
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
