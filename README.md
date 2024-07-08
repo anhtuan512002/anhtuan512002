@@ -11,7 +11,8 @@ I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, 
 - :coffee: I'm coffeer.
 
 
-![Uploading 57dc234298089c7a120ca9dc6da60f31.gif…]()
+![57dc234298089c7a120ca9dc6da60f31](https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
