@@ -14,6 +14,25 @@ I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, 
 ![57dc234298089c7a120ca9dc6da60f31](https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87)
 
 
+<h1 align="left" id="macropower-title">👋 Hello there!</h1>
+<p align="left"></p>
+<p align="left">I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, and C++. Aspiring to leverage my skills and passion for technology in a dynamic role.</p>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87" alt="Tuan Nguyen" style="max-width: 100%;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <ul>
+      <li>🏡 I'm currently living at HCM City, Vietnam 🇻🇳.</li>
+      <li>📧 Email: <a href="mailto:tuanna05.cs@gmail.com">tuanna05.cs@gmail.com</a></li>
+      <li>🎯 I'm currently working on my pet projects.</li>
+      <li>🎮 I love games.</li>
+      <li>☕ I'm a coffee lover.</li>
+    </ul>
+  </div>
+</div>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
