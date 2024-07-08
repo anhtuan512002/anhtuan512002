@@ -9,8 +9,8 @@
     </td>
     <td>
       <ul>
-            <p>I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, and C++. Aspiring to leverage my skills and passion for technology in a dynamic role.</p>
-            <li>🏡 I'm currently living at HCM City, Vietnam 🇻🇳.</li>
+            <p>I'm <strong>Tuan Nguyen</strong>. Computer Science student with expertise in <strong>Javascript, Python, and C++</strong>. Aspiring to leverage my skills and passion for technology in a dynamic role.</p>
+            <li>🏡 I'm currently living at <strong>HCM City, Vietnam 🇻🇳.<strong></li>
             <li>📧 Email: <a href="mailto:tuanna05.cs@gmail.com">tuanna05.cs@gmail.com</a></li>
             <li>🎯 I'm currently working on my pet projects.</li>
             <li>🎮 I love games.</li>
