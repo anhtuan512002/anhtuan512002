@@ -2,18 +2,6 @@
 </h1>
 <p align="left">
 </p>
-I'm Tuan Nguyen. Computer Science student with expertise in Javascript, Python, and C++. Aspiring to leverage my skills and passion for technology in a dynamic role.
-
-- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
-- :email:tuanna05.cs@gmail.com.
-- :dart: I'm currently working on my pet projects.
-- :video_game: I love Game.
-- :coffee: I'm coffeer.
-
-
-![57dc234298089c7a120ca9dc6da60f31](https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87)
-
-
 <table style="width:100%;">
   <tr>
     <td>
