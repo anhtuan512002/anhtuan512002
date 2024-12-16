@@ -1,28 +1,24 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! 
-</h1>
-<p align="left">
-</p>
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87" alt="Tuan Nguyen" class="profile-img">
-    </td>
-    <td>
-      <ul>
-            <p>I'm <strong>Tuan Nguyen</strong>. Computer Science student with expertise in <strong>Javascript, Python, and C++</strong>. Aspiring to leverage my skills and passion for technology in a dynamic role.</p>
-            <li>🏡 I'm currently living at <strong>HCM City, Vietnam 🇻🇳.<strong></li>
-            <li>📧 Email: <a href="mailto:tuanna05.cs@gmail.com">tuanna05.cs@gmail.com</a></li>
-            <li>🎯 I'm currently working on my pet projects.</li>
-            <li>🎮 I love games.</li>
-            <li>☕ I'm a coffee lover.</li>
-        </ul>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 Nguyen Anh Tuan!  
+𝙰 💻 Software 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
-```ruby
+🎯 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚖𝚖𝚎𝚛𝚜𝚒𝚟𝚎 𝚐𝚊𝚖𝚎𝚜, 𝚌𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜, 𝚊𝚗𝚍 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚟𝚒𝚜𝚞𝚊𝚕𝚕𝚢 𝚜𝚝𝚞𝚗𝚗𝚒𝚗𝚐 𝚊𝚛𝚝.  
+🌟 𝙼𝚢 𝚘𝚝𝚑𝚎𝚛 𝚑𝚘𝚋𝚋𝚒𝚎𝚜 𝚊𝚛𝚎 📺 <span>𝚆𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝙰𝚗𝚒𝚖𝚎</span>, 📚 <span>𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝙼𝚊𝚗𝚐𝚊 & 𝙻𝚒𝚐𝚑𝚝 𝙽𝚘𝚟𝚎𝚕𝚜</span>, 🎧 𝙶𝚛𝚘𝚘𝚟𝚒𝚗𝚐 𝚝𝚘 𝙼𝚞𝚜𝚒𝚌, 🎮 <span>𝙶𝚊𝚖𝚒𝚗𝚐</span>
+
+## 🚀 千ㄥㄚ 爪乇 ㄒㄖ ㄒ卄乇 爪ㄖㄖ几~
+
+🔥 𝙻𝚎𝚝'𝚜 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛! 🚀
+
+<!-- Badges provided by https://shields.io, color palettes & icons by https://simpleicons.org -->
+[![kiraio's Discord](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=discord&logoColor=fff)](https://discordapp.com/users/557172990522163210 "Tuan's on Discord (meomeo)")
+[![Tuan's Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=fff)](https://www.facebook.com/anh.tuan.nguyen.784032 "Tuan's on Facebook")
+<!--[![Tuan's Telegram](https://img.shields.io/badge/-Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/kiraio "kiraio's on Telegram")-->
+[![Tuan's Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/anhtuan6396/ "Tuan's on Instagram")
+[![Tuan's LinkedIn](https://img.shields.io/badge/-LinkedIn-26a5e4?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kiraio/ "Tuan's on LinkedIn")
+<div/>
+
+```
 const derek = {
   name: "Tuan Nguyen",
   pronouns: "He/Him",
