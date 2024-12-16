@@ -1,7 +1,9 @@
 <div align="center">
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+        <img src="https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87" alt="Tuan Nguyen" class="profile-img">
+  
 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 Nguyen Anh Tuan!  
-𝙰 💻 Software 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
+  𝙰 💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 🎯 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚒𝚖𝚖𝚎𝚛𝚜𝚒𝚟𝚎 𝚐𝚊𝚖𝚎𝚜, 𝚌𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜, 𝚊𝚗𝚍 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐 𝚟𝚒𝚜𝚞𝚊𝚕𝚕𝚢 𝚜𝚝𝚞𝚗𝚗𝚒𝚗𝚐 𝚊𝚛𝚝.  
 🌟 𝙼𝚢 𝚘𝚝𝚑𝚎𝚛 𝚑𝚘𝚋𝚋𝚒𝚎𝚜 𝚊𝚛𝚎 📺 <span>𝚆𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝙰𝚗𝚒𝚖𝚎</span>, 📚 <span>𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝙼𝚊𝚗𝚐𝚊 & 𝙻𝚒𝚐𝚑𝚝 𝙽𝚘𝚟𝚎𝚕𝚜</span>, 🎧 𝙶𝚛𝚘𝚘𝚟𝚒𝚗𝚐 𝚝𝚘 𝙼𝚞𝚜𝚒𝚌, 🎮 <span>𝙶𝚊𝚖𝚒𝚗𝚐</span>
@@ -16,7 +18,11 @@
 <!--[![Tuan's Telegram](https://img.shields.io/badge/-Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/kiraio "kiraio's on Telegram")-->
 [![Tuan's Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/anhtuan6396/ "Tuan's on Instagram")
 [![Tuan's LinkedIn](https://img.shields.io/badge/-LinkedIn-26a5e4?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kiraio/ "Tuan's on LinkedIn")
-<div/>
+
+
+
+<div align="left">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```
 const derek = {
@@ -37,11 +43,11 @@ const derek = {
   cloudServer: ["AWS", "GCP"]
 };
 ```
+<div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ## Activities:
-
-<table style="width:100%;">
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanhtuan512002&labelColor=%232ccce4&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fanhtuan512002)<table style="width:100%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucnt2002&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20programing%20languages%20%20used" alt="tiennhm" width="100%"/>
