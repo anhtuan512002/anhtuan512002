@@ -21,7 +21,7 @@
 [![Tuan's Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=fff)](https://www.facebook.com/anh.tuan.nguyen.784032 "Tuan's on Facebook")
 <!--[![Tuan's Telegram](https://img.shields.io/badge/-Telegram-26a5e4?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/kiraio "kiraio's on Telegram")-->
 [![Tuan's Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/anhtuan6396/ "Tuan's on Instagram")
-[![Tuan's LinkedIn](https://img.shields.io/badge/-LinkedIn-26a5e4?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kiraio/ "Tuan's on LinkedIn")
+[![Tuan's LinkedIn](https://img.shields.io/badge/-LinkedIn-26a5e4?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tuan512/ "Tuan's on LinkedIn")
 
 
 
