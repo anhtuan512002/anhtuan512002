@@ -17,8 +17,6 @@
 🔥 𝙻𝚎𝚝'𝚜 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛! 🚀
 
 <!-- Badges provided by https://shields.io, color palettes & icons by https://simpleicons.org -->
-[![kiraio's Discord](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=discord&logoColor=fff)](https://discordapp.com/users/557172990522163210 "Tuan's on Discord (meomeo)")
-[![Tuan's Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=fff)](https://www.facebook.com/anh.tuan.nguyen.784032 "Tuan's on Facebook")
 [![Tuan's LinkedIn](https://img.shields.io/badge/-LinkedIn-26a5e4?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tuan512/ "Tuan's on LinkedIn")
 
 
