@@ -1,5 +1,4 @@
 <div align="center">
-        <img src="https://github.com/anhtuan512002/anhtuan512002/assets/103402773/4551421d-329c-477c-9b45-e355c92c3c87" alt="Tuan Nguyen" class="profile-img">
   
 👋 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 Nguyen Anh Tuan!  
 
